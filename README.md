@@ -1,2 +1,2 @@
 # saving-tweets
-Save tweets of a givem keyword in a SQLite database.
+Save tweets of a given keyword in a SQLite database.
